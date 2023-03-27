@@ -1,4 +1,4 @@
-import Image from "next/Image";
+import Image from "next/image";
 
 import Button from '../ui/button';
 import DateIcon from '../icons/date-icon';

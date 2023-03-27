@@ -1,4 +1,4 @@
-import Image from "next/Image";
+import Image from "next/image";
 
 import AddressIcon from '../icons/address-icon';
 import DateIcon from '../icons/date-icon';
